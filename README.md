@@ -15,7 +15,7 @@ Este é um projeto de **Dashboard de Vendas** desenvolvido com **Next.js** e com
 
 ### 💻 Versão Desktop
 
-![Dashboard Desktop](./assets/dashboard-desktop.png)
+![Dashboard Desktop](../assets/dashboard-desktop.png)
 
 ### 📱 Versão Mobile
 
