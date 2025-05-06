@@ -1,4 +1,4 @@
-import { Home, LogOut, Package, PanelBottom, Settings, Settings2, ShoppingBag, Users } from "lucide-react"
+import { Home, LogOut, Package, PanelBottom, Settings2, ShoppingBag, Users } from "lucide-react"
 import { Button } from "../ui/button"
 import { Sheet, SheetTrigger, SheetContent } from "../ui/sheet"
 import Link from "next/link"
