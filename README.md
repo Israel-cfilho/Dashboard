@@ -15,11 +15,11 @@ Este é um projeto de **Dashboard de Vendas** desenvolvido com **Next.js** e com
 
 ### 💻 Versão Desktop
 
-![Dashboard Desktop](../assets/dashboard-desktop.png)
+![Dashboard Desktop](./src/assets/dashboard-desktop.png)
 
 ### 📱 Versão Mobile
 
-![Dashboard Mobile](./assets/dashboard-mobile.png)
+![Dashboard Mobile](./src/assets/dashboard-mobile.png)
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -33,7 +33,7 @@ Este é um projeto de **Dashboard de Vendas** desenvolvido com **Next.js** e com
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/israel-cfilho/Dashboard.git
 
 # 2. Acesse a pasta do projeto
 cd dashboard
